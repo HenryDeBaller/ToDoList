@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project [To-Do App](https://To-Do-App.manthya20.repl.co).
+This project [To-Do App](https://ToDoList.henryeddi.repl.co).
 
 ## Available Scripts
 
